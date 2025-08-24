@@ -1,0 +1,6 @@
+services:
+  tealfire-website:
+    image: dertyp7/tealfire-website:latest
+    restart: unless-stopped
+    ports:
+      - 80:80/tcp
