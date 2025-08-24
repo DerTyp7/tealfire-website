@@ -2,9 +2,7 @@
 
 This is the source code for the [TealFire]("https://tealfire.de") website.
 
-> Automatically deployed to [tealfire.de]("https://tealfire.de") on push to `main` branch. With GitHub Actions.
-
-## Setup
+## Setup development
 
 1. Clone repository
 2. Install dependencies: `npm install`
