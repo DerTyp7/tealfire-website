@@ -1,5 +1,4 @@
 import "@styles/TeamSpeak.scss";
-import TsViewer from "./TsViewer";
 
 export default function TeamSpeak() {
 	return (
@@ -18,7 +17,6 @@ export default function TeamSpeak() {
 					Open In TeamSpeak
 				</button>
 			</div>
-			<TsViewer />
 		</div>
 	);
 }
